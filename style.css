@@ -56,7 +56,8 @@ body {
 }
 .table-wrapper {
 
-     
+     overflow-y: scroll;
+    overflow-x: scroll;
     height: fit-content;
     max-height: 66.4vh;
     
